@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Sale
+comment1.params=saleId\ carId\ customerId\ totalPrice
+comment1.target=Sale(java.lang.String,\ java.lang.String,\ java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getSaleId()
+comment3.params=
+comment3.target=java.lang.String\ getCarId()
+comment4.params=
+comment4.target=java.lang.String\ getCustomerId()
+comment5.params=
+comment5.target=double\ getTotalPrice()
+numComments=6
